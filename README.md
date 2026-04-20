@@ -8,7 +8,7 @@
 
 ### 💻 Sobre mim
 
-- 🌱 Estudando **desenvolvimento web** (HTML, CSS, JavaScript)
+- 🌱 Estudando **Engenharia de Computação** (HTML, CSS, JavaScript)
 - 🏗️ Construindo portfólio com projetos funcionais em produção
 - 🚀 Foco atual: aplicações completas com backend, autenticação e deploy
 - 🤝 Aberto a colaborações e feedback
