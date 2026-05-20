@@ -33,7 +33,7 @@
 | Projeto | Descrição | Stack | Link |
 |---------|-----------|-------|------|
 | 📦 **Sistema de Gestão de Estoque** | Controle XML, alertas de validade, relatórios de compra, fluxo de caixa e precificação | JS · Supabase · PostgreSQL · XML | [Web App](https://enchanting-melomakarona-00bc31.netlify.app/) |
-| ⭐ **RankiaCard** | Landing page de alta conversão para produto NFC — planos, depoimentos, FAQ | HTML · CSS · JS · SEO | [Freelance](https://lucent-gingersnap-253b33.netlify.app/) |
+| ⭐ **RankiaCard** | Sistema de vendas em produção — cadastro de clientes, registro de vendas e painel admin (emprego atual na empresa RankiaCard) | JS · HTML · CSS · Supabase | [Ver online](https://rankia-card.web.app/) |
 | 🌐 **Portfólio Pessoal** | Site portfólio responsivo dark mode com animações e mobile-first | HTML · CSS · JS | [Ver online](https://rad-smakager-696c75.netlify.app/) |
 | 🏋️ **Sistema Academia UNIFEV** | Gestão de academia com cadastro, anamnese, treinos e sync em tempo real | JS · Supabase · Realtime | [Demo](https://kaleidoscopic-arithmetic-2da457.netlify.app/) |
 
